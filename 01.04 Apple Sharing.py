@@ -1,0 +1,6 @@
+studentnumber = input("Enter Number of Students: ")
+applenumber = input("Enter Number of Apples: ")
+recived = float(applenumber) // float(studentnumber)
+remainder = float(applenumber) % float(studentnumber)
+print(recived)
+print(remainder)
